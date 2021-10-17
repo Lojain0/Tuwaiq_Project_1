@@ -1,0 +1,66 @@
+body {
+    background-color: blanchedalmond;
+    border-width: thin;
+    margin: 30px;
+}
+
+.navbar{
+list-style: none;
+margin: 0px;
+padding: 0px;
+text-align: center;
+}
+.navbar li{
+    display: inline-block;
+}
+
+.navbar a{
+    display: ;
+    padding: 0 20px 0 20px;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 18px;
+    color: black;
+    line-height: 50px;
+}
+.navbar a:hover{
+    background-color: white;
+}
+
+
+
+
+
+h1 {
+    text-align: center;
+}
+
+#a2{
+    display: flex;
+    margin: 90px;
+}
+
+#A3{
+    display: flex;
+    margin: 90px;
+}
+
+#A4{
+    display: flex;
+    margin: 90px;
+}
+
+#btn{
+    background-color: blanchedalmond;
+    border-radius: 10px;
+ float: right;
+}
+
+#panem{
+    text-align: center;
+    margin: 10px;
+}
+
+.abaya2{
+    margin: 30px;
+}
